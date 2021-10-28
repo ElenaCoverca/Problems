@@ -1,0 +1,7 @@
+~ NOT
+&& ȘI
+|| SAU
+=> IMPLICAȚIE
+<=> ECHIVALENȚĂ
+
+Programul citește de la tastatură un șir de caractere și stabilește dacă este formulă propozițională bine formată
